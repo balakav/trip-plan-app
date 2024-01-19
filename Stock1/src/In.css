@@ -1,0 +1,15 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+/* App.css */
+
+/* Add styles for table and its elements */
+
+  
+   td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  

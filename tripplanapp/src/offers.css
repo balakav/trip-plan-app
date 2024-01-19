@@ -1,0 +1,14 @@
+.offers{
+    background-color:rgb(201, 167, 167);
+    float: center;
+    border-radius:20px;
+    height:55px;
+    color:black;
+    width:210px;
+    margin: 15px;
+    float:left;
+    font-weight: bold;
+    text-align: center;
+    margin-left:40px;
+
+}

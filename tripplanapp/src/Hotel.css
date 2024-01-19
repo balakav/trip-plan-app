@@ -1,0 +1,47 @@
+#hoteldiv{
+    padding-top:140px;
+}
+.boxinhotel{
+    height:200px;
+    width: 1400px;
+    background-color:aqua;
+    border-radius: 30px;
+    color: white;
+    float: right;
+    display: flex;
+    margin-right: 40px;
+    gap:30px;
+}
+.imghotel{
+    height:200px;
+    width: 400px;
+    border-radius:30px;
+
+}
+.kl{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap:30px;
+    margin-left: 50px;
+}
+.hotelh1{
+    color: black;
+    margin-right: 400px;
+}
+.hotelrating{
+    float:right;
+    margin-top:70px;
+   
+}
+.hotelh2{
+    float:rigth;
+}
+
+.hotelbooking{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    grid-gap:10px;
+    margin:0 auto;
+    position: relative;
+}
