@@ -13,10 +13,10 @@ const Home = () => {
             <h2>Inventory Management</h2>
             <p>Manage your inventory, add, edit or remove items.</p>
           </div></Link>
-          <div className="option">
+         <Link to="/Otp"> <div className="option">
             <h2>Orders</h2>
             <p>View and manage orders, track shipments.</p>
-          </div>
+          </div></Link>
           <div className="option">
             <h2>Reports</h2>
             <p>Generate reports, analyze stock data.</p>

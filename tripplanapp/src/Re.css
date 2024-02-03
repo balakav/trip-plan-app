@@ -85,16 +85,14 @@
 }
 
 .body18{
-  background-image: url('./wal.jpg');
+  /* background-image: url('./wal.jpg'); */
   background-size: cover; /* Adjust as needed */
   background-repeat: no-repeat; /* Adjust as needed */
   height: 750px;
   width: 1519px;
 }
  
-.r098{
- 
-}
+
 .a1{
   color: whitesmoke;
   

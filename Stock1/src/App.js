@@ -5,6 +5,7 @@ import Re from './Re.js'
 import Home from './Home.js'
 import In from './In.js'
 import Order from './Order.js';
+import Otp from './Otp.js';
 import {BrowserRouter,Routes,Route} from 'react-router-dom';
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
           <Route path='/Re' element={<Re/>}></Route>
           <Route path='/Home' element={<Home/>}></Route>
           <Route path='/In' element={<In/>}></Route>
-         
+          <Route path='/Otp' element={<Otp/>}></Route>
+          
           </Routes>
           </div>
           </BrowserRouter>
